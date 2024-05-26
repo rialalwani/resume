@@ -1,0 +1,54 @@
+.contact{
+    background-color:darkslateblue;
+    color:white;
+    margin-top: 10px;
+    padding:25px 20px;
+    height:200px;
+}
+svg{
+    margin-right:10px;
+}
+.heading1{
+    display:flex;
+    flex-direction: row;
+}
+.heading2{
+    display:flex;
+    flex-direction: row;
+}
+.rect{
+    height:8px;
+    width:95%;
+    background-color: darkslateblue;
+    border-color: black;
+}
+.rect1{
+    height:8px;
+    width:95%;
+    border-color: black;
+    background-image: linear-gradient(to right,darkslateblue 0%,darkslateblue 50%,white 50%,white 100%);
+}
+.rect2{
+    height:8px;
+    width:95%;
+    border-color:black;
+    background-image: linear-gradient(to right,darkslateblue 0%,darkslateblue 70%,white 70%,white 100%);
+}
+.rect3{
+    height:8px;
+    width:95%;
+    border-color:black;
+    background-image: linear-gradient(to right,darkslateblue 0%,darkslateblue 80%,white 80%,white 80%);
+}
+.rect4{
+    height:8px;
+    width:95%;
+    border-color:black;
+    background-image: linear-gradient(to right,darkslateblue 0%,darkslateblue 60%,white 60%,white 80%);
+}
+.rect5{
+    height:8px;
+    width:95%;
+    border-color:black;
+    background-image: linear-gradient(to right,darkslateblue 0%,darkslateblue 40%,white 40%,white 80%);
+}
